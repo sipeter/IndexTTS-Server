@@ -1,0 +1,24 @@
+# Build & IDE
+engine/build*/
+desktop/bin/
+desktop/obj/
+desktop/publish*/
+desktop/desktop_settings.json
+*.user
+*.suo
+.vs/
+
+# Models, binaries & audio
+*.onnx
+*.onnx.data
+*.bin
+*.gguf
+*.wav
+*.mp3
+*.dll
+*.exe
+*.lib
+*.pdb
+trt_cache/
+models/
+refs/
